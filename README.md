@@ -16,7 +16,14 @@
  - Upload the BIMJSON files to Kaggle Dataset
  - Change the path to the files in the first block and replace *path = 'drive/MyDrive / BIMJSON/'* with the address of the folder where the BIMISON files are located
 
+# OpenDataBIM
+https://opendatabim.io/
 
-# opendatabim.io
-If you are developing 3D-7D (BIM, propTechs, CAD) solutions and are interested in the topic of open data and formats, please go to  [opendatabim.com](http://opendatabim.io/)  learn more about or to join project
+
+BIMJSON is a format for transferring information to another party without the need for external guarantors or trusted ‘third parties’, enabling data to be exchanged within 3D-7D systems and between construction parties directly, bypassing any third-party companies controlling data storage and transfer. BIMJSON data – allows you to automate work with project data. In order to get automatic data from thousands of projects automatically, you need to build the pipeline once on the open tools.
+
+OpenDataBIM - You Way to Free Tools in Construction.
+
+### Go to  BIM 2.0  go to  Open Source
+![enter image description here](https://opendatabim.io/wp-content/uploads/2021/10/BIM20.jpg)
 
