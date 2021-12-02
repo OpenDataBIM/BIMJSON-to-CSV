@@ -4,8 +4,8 @@
 # Google Collab 
 
  - Go to https://colab.research.google.com/
- - download the [BIMjson_to_CSV.ipynb](https://github.com/OpenDataBIM/BIMJSON-to-CSV/blob/main/BIMjson_to_CSV.ipynb "BIMjson_to_CSV.ipynb") from github site
- - Open [BIMjson_to_CSV.ipynb](https://github.com/OpenDataBIM/BIMJSON-to-CSV/blob/main/BIMjson_to_CSV.ipynb "BIMjson_to_CSV.ipynb") in Google Collab 
+ - download the [BIMjson_to_CSV.ipynb](https://github.com/OpenDataBIM/QuantityTakeoff-JupyterNotebook/blob/main/QuantityTakeoff-JupyterNotebook.ipynb) from github site
+ - Open [BIMjson_to_CSV.ipynb](https://github.com/OpenDataBIM/QuantityTakeoff-JupyterNotebook/blob/main/QuantityTakeoff-JupyterNotebook.ipynb) in Google Collab 
  - Upload the BIMJSON files to Google Collab
  - Change the path to the files in the first block and replace *path = 'drive/MyDrive / BIMJSON/'* with the address of the folder where the BIMISON files are located
 
