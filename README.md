@@ -1,5 +1,5 @@
-# BIMJSON to CSV
-![enter image description here](https://opendatabim.com/wp-content/uploads/2021/11/OpenDataBIM-3.jpg)
+# BIMJSON to CSV, XLS
+![enter image description here](https://opendatabim.io/wp-content/uploads/2021/11/OpenDataBIM-3.jpg)
 
 # Google Collab 
 
